@@ -1,6 +1,6 @@
 # 📱 Power BI Mobile Sales Dashboard – India
 
-![Dashboard Preview](dashboard-preview.jpg)
+![Dashboard Preview]("C:\Users\hp\Downloads\Mobile Sales Data- Sales data.jpg")
 
 This Power BI project presents a dynamic and interactive dashboard analyzing **mobile phone sales across India**. It offers deep insights into sales performance, customer behavior, and payment methods, helping businesses make data-driven decisions.
 
